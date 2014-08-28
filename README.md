@@ -4,7 +4,7 @@ This was a challenge at Week 5 Makers Academy. We were set teh task to create an
 
 Still to do:
 ----
-- Frontend, responsivness
+- Frontend
 - Uploading to Heroku
 
 Objectives of exercise
